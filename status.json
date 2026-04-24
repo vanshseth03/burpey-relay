@@ -1,6 +1,6 @@
 {
-  "tunnel_url": "",
-  "status": "stopped",
-  "model": "Wiam/distilhubert-finetuned-babycry-v7",
-  "updated_at": "2026-04-24T20:15:15Z"
+  "tunnel_url": "https://urls-minor-temporarily-gst.trycloudflare.com",
+  "status": "running",
+  "model": "distilhubert-babycry-v7",
+  "updated_at": "2026-04-24T20:19:18Z"
 }
