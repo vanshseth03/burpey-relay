@@ -1,6 +1,6 @@
 {
-  "tunnel_url": "",
-  "status": "stopped",
+  "tunnel_url": "https://getting-insight-karen-including.trycloudflare.com",
+  "status": "running",
   "model": "Wiam/distilhubert-finetuned-babycry-v7",
-  "updated_at": ""
+  "updated_at": "2026-04-24T20:12:16Z"
 }
