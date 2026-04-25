@@ -1,6 +1,6 @@
 {
-  "tunnel_url": "https://oils-curriculum-dividend-invision.trycloudflare.com",
+  "tunnel_url": "https://marcus-converted-articles-engines.trycloudflare.com",
   "status": "running",
-  "model": "AST+Wav2Vec2 two-stage",
-  "updated_at": "2026-04-25T16:15:12Z"
+  "model": "AST + Acoustic Features v3",
+  "updated_at": "2026-04-25T16:26:57Z"
 }
