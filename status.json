@@ -1,6 +1,6 @@
 {
-  "tunnel_url": "https://else-vid-italia-anytime.trycloudflare.com",
+  "tunnel_url": "https://oils-curriculum-dividend-invision.trycloudflare.com",
   "status": "running",
-  "model": "distilhubert-babycry-v7",
-  "updated_at": "2026-04-25T05:50:18Z"
+  "model": "AST+Wav2Vec2 two-stage",
+  "updated_at": "2026-04-25T16:15:12Z"
 }
